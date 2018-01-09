@@ -1,10 +1,14 @@
+
 #include <stdio.h>
-void main
+
+int main() 
 {
-int n;
-printf("enter the n value");
+{
+int n=2234556;
 if(n>=0)
 printf("positive");
 else
 printf("negative");
+}
+return 0;
 }
